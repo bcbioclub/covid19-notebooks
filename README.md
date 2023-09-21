@@ -1,4 +1,7 @@
 # covid19-notebooks
+
+Files are downloaded from: [NCBI](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049)
+
 Jupyter notebooks and file resources for covid-19 uw symposium project
 
 ```mermaid
