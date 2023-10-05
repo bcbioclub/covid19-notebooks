@@ -1,0 +1,1 @@
+All file resources are downloaded from NCBI's SARS-CoV-2 [Data Hub](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049)
