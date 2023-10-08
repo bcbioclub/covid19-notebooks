@@ -1,16 +1,15 @@
-# Welcome to Bellevue College Biology Club
+## Welcome to Bellevue College Biology Club
+
+- If you are a member, please see the [contributors page](contributors.md)
+- To become a member reach out to our advisors:
+  - Arman (abilge@uw.edu) or Dr. Alavares (stay.alvares@bellevuecollege.edu)
 
 ### This repo is for our 2023 COVID-19 project
 
-Poster presented at UW Undergraduate Symposium 2023: [Poster Link](https://zenodo.org/record/7948703)
+- Poster presented at UW Undergraduate Symposium 2023: [Poster Link](https://zenodo.org/record/7948703)
 
-To become a member reach out to our advisors Arman (abilge@uw.edu) or Dr. Alavares (stay.alvares@bellevuecollege.edu)
-
-If you are a member, please see the [contributor page](contributors.md)
-
-Files are downloaded from: [NCBI](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049)
-
-Jupyter notebooks and file resources for covid-19 uw symposium project
+### Research Data Flow Diagram
+This diagram shows our data analysis journey. 
 
 ```mermaid
   graph TD;
@@ -26,3 +25,10 @@ Jupyter notebooks and file resources for covid-19 uw symposium project
       E --> I
       F --> I
 ```
+
+1. We begin by downloading genome data (fasta files).
+1. Then we split into two paths:
+   - Python code - was written to find differences (mutations) between the original Wuhan COVID-19 strain genome and other strains we selected.
+   - Phylogenetic trees - were generated that analyzed all of the selected COVID-19 strain genomes together and hypothesized how mutations affected evolution.
+1. Our last objective is to bring our findings (mutations) from both paths together.
+   - Our hope is that mutations we find in the trees will also be found by our Python code.
