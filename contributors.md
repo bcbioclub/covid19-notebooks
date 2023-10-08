@@ -9,7 +9,8 @@
 #### Select New Sars-Cov2 Strain
 1. Navigate a web browser to the [World Health Organization](https://www.who.int/activities/tracking-SARS-CoV-2-variants).
 2. Scroll down to the "Currently circulating variants of interest" table.
-3. Find a row and copy the first column (Pango lineage) value.
+   <img src="pics/WHO-VOIs.png" width="400">
+3. Find a row and copy the first column (Pango lineage) value (e.g. "XBB.1.5").
 
 #### Find NCBI Nucleotide Page
 4. Open a new browser tab and navigate to NCBI's SARS-CoV-2 [Data Hub](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide&VirusLineage_ss=Severe%20acute%20respiratory%20syndrome%20coronavirus%202,%20taxid:2697049).
