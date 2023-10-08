@@ -4,7 +4,7 @@
 - To become a member reach out to our advisors:
   - Arman (abilge@uw.edu) or Dr. Alavares (stay.alvares@bellevuecollege.edu)
 
-### How To Add New Strain Sequences
+## How To Add New Strain Sequences
 
 #### Select New Sars-Cov2 Strain
 1. Navigate a web browser to the [World Health Organization](https://www.who.int/activities/tracking-SARS-CoV-2-variants).
@@ -63,7 +63,7 @@
 #### Congratulations
 You have contributed a new strain to our COVID-19 research.
 
-### How To Find Mutations
+## How To Find Mutations
 
 #### Install IDE
 1. The best way to write and run this code is in an interactive development environment (IDE) application.
