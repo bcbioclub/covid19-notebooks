@@ -1,0 +1,166 @@
+strain,protein id,product,gene,type,feat start,feat end,position,org,new,is color same,org color,new color,is conserved,org type,new type
+MW243586.1,QPB40565.1,surface glycoprotein,S,CDS,21521,25342,786,Valine,Lysine,False,blue,red,False,nonpolar,positive
+MW243586.1,QPB40565.1,surface glycoprotein,S,CDS,21521,25342,787,Lysine,Glutamine,False,red,green,False,positive,polar
+MW243586.1,QPB40565.1,surface glycoprotein,S,CDS,21521,25342,788,Glutamine,Isoleucine,False,green,blue,False,polar,nonpolar
+MW243586.1,QPB40565.1,surface glycoprotein,S,CDS,21521,25342,789,Isoleucine,Tyrosine,False,blue,teal,False,nonpolar,polar
+MW243586.1,QPB40570.1,ORF7a protein,ORF7a,CDS,27352,27717,107,Isoleucine,Valine,True,,,True,,
+MW243586.1,QPB40570.1,ORF7a protein,ORF7a,CDS,27352,27717,108,Valine,Phenylalanine,True,,,True,,
+MW243586.1,QPB40570.1,ORF7a protein,ORF7a,CDS,27352,27717,109,Phenylalanine,Isoleucine,True,,,True,,
+MW243586.1,QPB40570.1,ORF7a protein,ORF7a,CDS,27352,27717,113,Threonine,Leucine,False,green,blue,False,polar,nonpolar
+MW243586.1,QPB40570.1,ORF7a protein,ORF7a,CDS,27352,27717,120,Leucine,Phenylalanine,True,,,True,,
+OP733821.1,,nsp6,ORF1ab,mat_peptide,10971,11831,106,Serine,Glycine,False,green,peach,False,polar,nonpolar
+OP733821.1,,nsp6,ORF1ab,mat_peptide,10971,11831,107,Glycine,Phenylalanine,False,peach,blue,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,25,Leucine,Proline,False,blue,yellow,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,26,Proline,Serine,False,yellow,green,False,nonpolar,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,27,Proline,Alanine,False,yellow,blue,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,70,Histidine,Valine,False,teal,blue,False,positive,nonpolar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,143,Glycine,Aspartic Acid,False,peach,purple,False,nonpolar,negative
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,215,Valine,Glycine,False,blue,peach,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,342,Glycine,Aspartic Acid,False,peach,purple,False,nonpolar,negative
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,375,Serine,Phenylalanine,False,green,blue,False,polar,nonpolar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,378,Serine,Proline,False,green,yellow,False,polar,nonpolar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,381,Serine,Threonine,True,,,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,384,Alanine,Phenylalanine,True,,,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,413,Aspartic Acid,Asparagine,False,purple,green,False,negative,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,417,Arginine,Serine,False,red,green,False,positive,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,427,Lysine,Asparagine,False,red,green,False,positive,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,456,Lysine,Threonine,False,red,green,False,positive,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,465,Leucine,Arginine,False,blue,red,False,nonpolar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,474,Asparagine,Lysine,False,green,red,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,492,Serine,Threonine,True,,,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,493,Threonine,Asparagine,True,,,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,494,Asparagine,Lysine,False,green,red,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,501,Glutamic acid,Alanine,False,purple,blue,False,negative,nonpolar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,504,Phenylalanine,Valine,True,,,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,517,Glutamine,Arginine,False,green,red,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,521,Asparagine,Tyrosine,False,green,teal,True,,
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,526,Tyrosine,Histidine,True,,,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,636,Aspartic Acid,Glycine,False,purple,peach,False,negative,nonpolar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,678,Histidine,Tyrosine,True,,,False,positive,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,703,Asparagine,Lysine,False,green,red,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,706,Proline,Histidine,False,yellow,teal,False,nonpolar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,790,Asparagine,Lysine,False,green,red,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,823,Aspartic Acid,Tyrosine,False,purple,teal,False,negative,polar
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,982,Glutamine,Histidine,False,green,teal,False,polar,positive
+OP733821.1,UYR89990.1,surface glycoprotein,S,CDS,21552,25358,998,Asparagine,Lysine,False,green,red,False,polar,positive
+OP733821.1,UYR89998.1,nucleocapsid phosphoprotein,N,CDS,28248,29498,31,Glutamic acid,Arginine,False,purple,red,False,negative,positive
+OP733821.1,UYR89998.1,nucleocapsid phosphoprotein,N,CDS,28248,29498,32,Arginine,Serine,False,red,green,False,positive,polar
+OM251163.1,,nsp2,ORF1ab,mat_peptide,752,2665,271,Asparagine,Leucine,False,green,blue,False,polar,nonpolar
+OM251163.1,,nsp2,ORF1ab,mat_peptide,752,2665,272,Leucine,Leucine,True,,,True,,
+OM251163.1,,nsp4,ORF1ab,mat_peptide,8501,10000,423,Leucine,Asparagine,False,blue,green,False,nonpolar,polar
+OM251163.1,,nsp6,ORF1ab,mat_peptide,10919,11788,23,Leucine,Leucine,True,,,True,,
+OM251163.1,,nsp8,ORF1ab,mat_peptide,12038,12631,122,Isoleucine,Proline,False,blue,yellow,True,,
+OM251163.1,,nsp8,ORF1ab,mat_peptide,12038,12631,123,Proline,Leucine,False,yellow,blue,True,,
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,108,Proline,Valine,False,yellow,blue,True,,
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,109,Valine,Glycine,False,blue,peach,True,,
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,110,Glycine,Phenylalanine,False,peach,blue,True,,
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,111,Phenylalanine,Threonine,False,blue,green,False,nonpolar,polar
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,112,Threonine,Leucine,False,green,blue,False,polar,nonpolar
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,113,Leucine,Lysine,False,blue,red,False,nonpolar,positive
+OM251163.1,,nsp10,ORF1ab,mat_peptide,12971,13387,114,Lysine,Asparagine,False,red,green,False,positive,polar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,142,Leucine,Glycine,False,blue,peach,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,143,Glycine,Valine,False,peach,blue,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,144,Valine,Tyrosine,False,blue,teal,False,nonpolar,polar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,145,Tyrosine,Tyrosine,True,,,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,146,Tyrosine,Histidine,True,,,False,polar,positive
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,147,Histidine,Lysine,False,teal,red,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,148,Lysine,Asparagine,False,red,green,False,positive,polar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,149,Asparagine,Asparagine,True,,,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,150,Asparagine,Lysine,False,green,red,False,polar,positive
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,151,Lysine,Serine,False,red,green,False,positive,polar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,152,Serine,Tryptophan,False,green,blue,False,polar,nonpolar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,153,Tryptophan,Methionine,True,,,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,455,Asparagine,Lysine,False,green,red,False,polar,positive
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,631,Aspartic Acid,Glycine,False,purple,peach,False,negative,nonpolar
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,877,Threonine,Asparagine,True,,,True,,
+OM251163.1,UIT20031.1,surface glycoprotein,S,CDS,21509,25330,972,Asparagine,Glutamine,True,,,True,,
+OL947440.1,,nsp2,ORF1ab,mat_peptide,781,2694,249,Serine,Alanine,False,green,blue,False,polar,nonpolar
+OL947440.1,,3C-like proteinase,ORF1ab,mat_peptide,10030,10947,223,Arginine,Phenylalanine,False,red,blue,False,positive,nonpolar
+OL947440.1,,nsp10,ORF1ab,mat_peptide,13000,13416,120,Valine,Cysteine,False,blue,peach,True,,
+OL947440.1,,helicase,ORF1ab,mat_peptide,16212,18014,186,Threonine,Glycine,False,green,peach,False,polar,nonpolar
+OL947440.1,,helicase,ORF1ab,mat_peptide,16212,18014,187,Glycine,Tyrosine,False,peach,teal,False,nonpolar,polar
+OL947440.1,,helicase,ORF1ab,mat_peptide,16212,18014,215,Arginine,Glycine,False,red,peach,False,positive,nonpolar
+OL947440.1,,helicase,ORF1ab,mat_peptide,16212,18014,284,Threonine,Isoleucine,False,green,blue,False,polar,nonpolar
+OL947440.1,,2'-O-ribose methyltransferase,ORF1ab,mat_peptide,20634,21527,8,Glutamine,Proline,False,green,yellow,False,polar,nonpolar
+OL947440.1,,2'-O-ribose methyltransferase,ORF1ab,mat_peptide,20634,21527,9,Proline,Glycine,False,yellow,peach,True,,
+OL947440.1,UHI26267.1,surface glycoprotein,S,CDS,21538,25359,670,Glycine,Isoleucine,False,peach,blue,True,,
+OL947440.1,UHI26267.1,surface glycoprotein,S,CDS,21538,25359,671,Isoleucine,Cysteine,False,blue,peach,True,,
+OL947440.1,UHI26267.1,surface glycoprotein,S,CDS,21538,25359,673,Alanine,Serine,False,blue,green,False,nonpolar,polar
+OL947440.1,UHI26267.1,surface glycoprotein,S,CDS,21538,25359,964,Leucine,Asparagine,False,blue,green,False,nonpolar,polar
+OL947440.1,UHI26267.1,surface glycoprotein,S,CDS,21538,25359,965,Asparagine,Threonine,True,,,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,38,Proline,Isoleucine,False,yellow,blue,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,254,Aspartic Acid,Glycine,False,purple,peach,False,negative,nonpolar
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,255,Glycine,Serine,False,peach,green,False,nonpolar,polar
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,272,Threonine,Threonine,True,,,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,273,Threonine,Threonine,True,,,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,274,Threonine,Threonine,True,,,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,275,Threonine,Serine,True,,,True,,
+OL947440.1,UHI26268.1,ORF3a protein,ORF3a,CDS,25368,26195,276,Serine,Valine,False,green,blue,False,polar,nonpolar
+OL947440.1,UHI26269.1,envelope protein,E,CDS,26220,26447,6,Valine,Serine,False,blue,green,False,nonpolar,polar
+OL947440.1,UHI26269.1,envelope protein,E,CDS,26220,26447,39,Leucine,Arginine,False,blue,red,False,nonpolar,positive
+OL947440.1,UHI26269.1,envelope protein,E,CDS,26220,26447,40,Arginine,Leucine,False,red,blue,False,positive,nonpolar
+OL947440.1,UHI26269.1,envelope protein,E,CDS,26220,26447,41,Leucine,Cysteine,False,blue,peach,True,,
+OL947440.1,UHI26269.1,envelope protein,E,CDS,26220,26447,42,Cysteine,Alanine,False,peach,blue,True,,
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,8,Asparagine,Glycine,False,green,peach,False,polar,nonpolar
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,9,Glycine,Threonine,False,peach,green,False,nonpolar,polar
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,10,Threonine,Isoleucine,False,green,blue,False,polar,nonpolar
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,83,Isoleucine,Alanine,True,,,True,,
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,109,Alanine,Arginine,False,blue,red,False,nonpolar,positive
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,110,Arginine,Threonine,False,red,green,False,positive,polar
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,111,Threonine,Arginine,False,green,red,False,polar,positive
+OL947440.1,UHI26270.1,membrane glycoprotein,M,CDS,26498,27166,148,Valine,Isoleucine,True,,,True,,
+OL947440.1,UHI26272.1,ORF7a protein,ORF7a,CDS,27369,27734,71,Glycine,Valine,False,peach,blue,True,,
+OL947440.1,UHI26272.1,ORF7a protein,ORF7a,CDS,27369,27734,79,Leucine,Arginine,False,blue,red,False,nonpolar,positive
+OL947440.1,UHI26274.1,ORF8 protein,ORF8,CDS,27869,28234,77,Aspartic Acid,Isoleucine,False,purple,blue,False,negative,nonpolar
+OL947440.1,UHI26274.1,ORF8 protein,ORF8,CDS,27869,28234,105,Arginine,Cysteine,False,red,peach,False,positive,nonpolar
+OL947440.1,UHI26274.1,ORF8 protein,ORF8,CDS,27869,28234,106,Cysteine,Serine,False,peach,green,False,nonpolar,polar
+OL947440.1,UHI26274.1,ORF8 protein,ORF8,CDS,27869,28234,117,Aspartic Acid,Valine,False,purple,blue,False,negative,nonpolar
+OL947440.1,UHI26275.1,nucleocapsid phosphoprotein,N,CDS,28249,29508,36,Alanine,Arginine,False,blue,red,False,nonpolar,positive
+OL947440.1,UHI26276.1,ORF10 protein,ORF10,CDS,29533,29649,12,Phenylalanine,Threonine,False,blue,green,False,nonpolar,polar
+OQ253610.1,,nsp2,ORF1ab,mat_peptide,806,2731,456,Leucine,Arginine,False,blue,red,False,nonpolar,positive
+OQ253610.1,,nsp2,ORF1ab,mat_peptide,806,2731,457,Arginine,Glycine,False,red,peach,False,positive,nonpolar
+OQ253610.1,,nsp2,ORF1ab,mat_peptide,806,2731,458,Glycine,Tryptophan,False,peach,blue,True,,
+OQ253610.1,,nsp6,ORF1ab,mat_peptide,10985,11845,106,Serine,Glycine,False,green,peach,False,polar,nonpolar
+OQ253610.1,,nsp6,ORF1ab,mat_peptide,10985,11845,107,Glycine,Phenylalanine,False,peach,blue,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,25,Leucine,Proline,False,blue,yellow,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,26,Proline,Serine,False,yellow,green,False,nonpolar,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,27,Proline,Alanine,False,yellow,blue,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,84,Valine,Alanine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,144,Glycine,Aspartic Acid,False,peach,purple,False,nonpolar,negative
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,148,Tyrosine,Glutamine,False,teal,green,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,186,Glutamine,Glutamic acid,False,green,purple,False,polar,negative
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,217,Valine,Glutamic acid,False,blue,purple,False,nonpolar,negative
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,257,Glycine,Valine,False,peach,blue,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,345,Glycine,Histidine,False,peach,teal,False,nonpolar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,353,Arginine,Threonine,False,red,green,False,positive,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,376,Leucine,Isoleucine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,380,Serine,Phenylalanine,False,green,blue,False,polar,nonpolar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,383,Serine,Proline,False,green,yellow,False,polar,nonpolar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,386,Serine,Threonine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,389,Alanine,Phenylalanine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,418,Aspartic Acid,Asparagine,False,purple,green,False,negative,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,422,Arginine,Serine,False,red,green,False,positive,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,432,Lysine,Asparagine,False,red,green,False,positive,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,462,Valine,Glycine,False,blue,peach,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,463,Glycine,Proline,False,peach,yellow,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,464,Proline,Serine,False,yellow,green,False,nonpolar,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,479,Asparagine,Lysine,False,green,red,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,497,Serine,Threonine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,498,Threonine,Asparagine,True,,,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,499,Asparagine,Lysine,False,green,red,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,506,Glutamic acid,Alanine,False,purple,blue,False,negative,nonpolar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,509,Phenylalanine,Proline,False,blue,yellow,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,514,Phenylalanine,Serine,False,blue,green,False,nonpolar,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,523,Glutamine,Arginine,False,green,red,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,527,Asparagine,Tyrosine,False,green,teal,True,,
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,532,Tyrosine,Histidine,True,,,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,642,Aspartic Acid,Glycine,False,purple,peach,False,negative,nonpolar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,684,Histidine,Tyrosine,True,,,False,positive,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,709,Asparagine,Lysine,False,green,red,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,712,Proline,Histidine,False,yellow,teal,False,nonpolar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,796,Asparagine,Lysine,False,green,red,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,829,Aspartic Acid,Tyrosine,False,purple,teal,False,negative,polar
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,988,Glutamine,Histidine,False,green,teal,False,polar,positive
+OQ253610.1,WBR86763.1,surface glycoprotein,S,CDS,21566,25375,1004,Asparagine,Lysine,False,green,red,False,polar,positive
+OQ253610.1,WBR86770.1,nucleocapsid phosphoprotein,N,CDS,28265,29515,31,Glutamic acid,Arginine,False,purple,red,False,negative,positive
+OQ253610.1,WBR86770.1,nucleocapsid phosphoprotein,N,CDS,28265,29515,32,Arginine,Serine,False,red,green,False,positive,polar
